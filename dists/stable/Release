@@ -5,21 +5,21 @@ Codename: stable
 Components: main
 Architectures: amd64
 Description: Repositorio de Atualizacao Automatica do Meister
-Date: Wed, 15 Apr 2026 20:58:24 +0000
-Date: Wed, 15 Apr 2026 20:58:24 +0000
+Date: Wed, 15 Apr 2026 21:00:06 +0000
+Date: Wed, 15 Apr 2026 21:00:06 +0000
 MD5Sum:
- abcb38384b5f8f5620577a21b09dccf5              242 Release
- 1b07fdb0704ce4cb4b19e26eafdad754             1186 main/binary-amd64/Packages
- 5cb6f78cf36d9c58144436c9c0e0e312              621 main/binary-amd64/Packages.gz
+ 880b6d71e6ca25e67ec0860a8a23333b              242 Release
+ eddac66f8a70d9ab1780ebc62215ae59             1186 main/binary-amd64/Packages
+ 6cd76e0cbbccc16081253aaadf31abf1              621 main/binary-amd64/Packages.gz
 SHA1:
- 1a62d0d09307d3d272fe8f9a14129d869b0b3934              242 Release
- 7cb875e3744207b3b326ac463564f73bfcda89a1             1186 main/binary-amd64/Packages
- d11422b12da95345216e4f30c5336cf4c7d6da38              621 main/binary-amd64/Packages.gz
+ 3d88f4990a3873fba1f64cb7f402067ac61ed592              242 Release
+ 64e68ab3a00d3960028b206b3846e160033adb3f             1186 main/binary-amd64/Packages
+ 5419d7d2561b4a34420c71b417c1f0c927199582              621 main/binary-amd64/Packages.gz
 SHA256:
- a76630ebff17eeeda09fb5d723c3bbf3f97e2a0b7a6f2324f6df165b251671d6              242 Release
- 949a00af0ec47950817f0bb3fed82c5ed591597d2015326ce8a5b270b1bea5ae             1186 main/binary-amd64/Packages
- 96d9c2fc9f2405c9331843855d5f6b0e3136d708646c1c92eda01c361aa42951              621 main/binary-amd64/Packages.gz
+ f49f31d963e63a7e6ea52ac01a8b48b4628434e5649213074922328fe27602a9              242 Release
+ 6c518cb86796b6eb1d349a33fc05394ae060952ac7c85a3230343f56f10e4355             1186 main/binary-amd64/Packages
+ 2ce6e13e9cef3e1cacd059ac8acf6e9bf1ad4e825b7ce9d6702dfc37b7b38d7d              621 main/binary-amd64/Packages.gz
 SHA512:
- 4c91ae367e97d6c2103dcedb8f8b2904b7ec0dce009d6e776d62ac7179f470f9a39bd2a76dbff22e6181726e64dd16ffaf85fb06eee25deb420e6b79474069bb              242 Release
- 3d4a13d19500ec141059db88efb9b1ede5c55b7a4701eb5bd2b8d100ba37880e21680bc2085ef96759ce4f70d791a43857a893d41f830c7964bf7b6645450287             1186 main/binary-amd64/Packages
- 4671d0cae1cbde5ff9cd057d9888f6beefd3913e0f4b0a436e262661782e39a9b9dd8c870a55fe3bed4bb54e8d83a4a0dd64c5d71df5579763aa5066b001d30a              621 main/binary-amd64/Packages.gz
+ 27d18c86bfdf0093b09f926fb69eba211b3d52e4d17528de048e246e6487937d60bb2c4f8f1a450d326d1864f9559c0fd2b9fa1ea6aea34876c5dd3e48e09fc9              242 Release
+ a4eafa03a1ebfb64f9fed4b32c490e5d7c2b34cd2bacf28c3a48f0d6a8e8f551f7f88b112809a20eeba3cbaf773a5bbf1791aec0298d14e873120c57ec4cf290             1186 main/binary-amd64/Packages
+ 0370a7a3c6ab0dd284f807ada6c95330e603692899529b4c0890e337343102e1d0b5e9cf59141cdb4787d20024f457d07dca709c48a61f59f7690ba95d62c59b              621 main/binary-amd64/Packages.gz
