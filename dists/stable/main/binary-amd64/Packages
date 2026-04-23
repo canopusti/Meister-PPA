@@ -30,3 +30,147 @@ SHA512: be83baac9085f06cd6598536264b425f207927cf6cd050fb04d63b90c0785ae42c85b474
 Description: A Tauri App
  (none)
 
+Package: meister
+Architecture: amd64
+Version: 0.1.3
+Priority: optional
+Maintainer: you
+Installed-Size: 18321
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.3_amd64.deb
+Size: 6045462
+MD5sum: 06f095fb1bf0fa16f5c53ffeb7584eba
+SHA1: ddf8bff23155fb7cb60ae1f3f025bc06ebfb5ef3
+SHA256: eacf904109293f83a24ace5fa3b0a6e2b33442ff3a7e0734e789b447b97bb8d5
+SHA512: a79b6a6d958c15fe0b08c5bd67858a63fa12a0cf31598dfbc7ebe0a0fe759dc3bbe88ee7d7a75bf38a618ce7fd19c107a116ca624f6a1b16149882ebf771a195
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.1.4
+Priority: optional
+Maintainer: you
+Installed-Size: 18321
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.4_amd64.deb
+Size: 6045462
+MD5sum: 48a23ae9cd202b9b84d32cfaaccb6828
+SHA1: 09f0bb5b927cd8556168117b32981401e0b54e16
+SHA256: 175329c21f90dbd2841f033e0570ba242a3a9d7c914368b3739bb9d42be0217a
+SHA512: 8f2a86eabca500f3b4408efeffc9a8e80deee2b5197c947212939e69c8cfee204981ec36b7b068111ba5fa309942131fe8e9f87e8654b4850f4543f7255ac212
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.1.5
+Priority: optional
+Maintainer: you
+Installed-Size: 18321
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.5_amd64.deb
+Size: 6045458
+MD5sum: ff42c0548933b7b38747710e98f19a1f
+SHA1: 1aabd8b0e084fd623d92c5da32067e35d06baa0c
+SHA256: af09930c08b496631ceb363e90b581add04e221fef8f618a871938531ceea95e
+SHA512: 00e19dd3f7334af97bc710833c3ed95edf30f5a5ed3af6751df8c4fb2adb44b507d3314cc342c9e3cc14857a916061d376a2eab9e8e9e64d338b5bb9d93acb56
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.1.6
+Priority: optional
+Maintainer: you
+Installed-Size: 18321
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.6_amd64.deb
+Size: 6045452
+MD5sum: d945ff147dbad34ec5128c353f34a876
+SHA1: cfc11c7eed7bd94e3d0e717fc40b9a1074efc29c
+SHA256: 31d67aeaa762fef90ba13cf7006ab1656bdcaf5649c39245cf3c16414a2e9820
+SHA512: 7ab9d4ee53834a9a5991d7bee0fe37ff886607441ec1994b5e7f897b69e42ae47c7fb87b361ec6e4f9c75dba4166835fd243adad8628bf5fcf236675185be624
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.1.7
+Priority: optional
+Maintainer: you
+Installed-Size: 18423
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.7_amd64.deb
+Size: 6062836
+MD5sum: b1a971ac9fa82d03280624e848a6a9a9
+SHA1: 5327a12cefe2ea4cca8ca8824950b9547ad29518
+SHA256: 17604d7f6e0600ed62d14ab0fe18d5fb02bb22d821a17403765e5af951605cef
+SHA512: 8ae3738d5732d9584fcc333657a29370ca4d29ba4a7412427ea42a235fe7118ffcce0191bae3d8940d95de314b95e91de1e50ef454540dfb906824b6cbdc14ad
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.1.8
+Priority: optional
+Maintainer: you
+Installed-Size: 18423
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.8_amd64.deb
+Size: 6063034
+MD5sum: ad2a5f2cc53eadd9b4b5b8c845455423
+SHA1: 02de190aa85efe3bae4719853abd2b54aa54b50c
+SHA256: 63c36099b6ac140d3d66b244e64b2e2cbb1032fd896f1798483b95ec8128a524
+SHA512: 9e0cecdad951b353f69454f47e34a556d6343c0dcc88f5124b06b75cc1c1f2ce174cff8596b456e56bb8916d521426b93fd78da1b47330689a41805dffa4d844
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.1.9
+Priority: optional
+Maintainer: you
+Installed-Size: 18423
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, procps, curl, gnupg, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.1.9_amd64.deb
+Size: 6063048
+MD5sum: 109a39ddae53216ab9a7987524f56efb
+SHA1: 29339cbc9261cad6fffab03d4c17bca7a19a040a
+SHA256: cabbef27ce46054af486ddc991d59968a2fa0e6b2dd1c05b18fd11dfefa2db5c
+SHA512: 25875e23c93ca65654322035178e9a2502a6624b3f4c58d46e211a2a24ee20cae9f64c7bee08a0d7d5509b243fafaf2fdd96ad3e28e874e99893be273de64b90
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.2.1
+Priority: optional
+Maintainer: you
+Installed-Size: 18422
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, procps, curl, gnupg, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.2.1_amd64.deb
+Size: 6060598
+MD5sum: 1a450e92869ff4de1c7018abc3fc71d3
+SHA1: 27afda0f048ac32893adab25a9fc7192db50f8f7
+SHA256: 40ebe83c2ec2fa624003cc737bfcb96fb0a90dc8209c95e915f1ba37c915daad
+SHA512: 2b9bbba5295f9fd3e43ae0642ba51dc369107feac83dd354dddc18b3ac17e00cb25486a127beef2f462d6342b7bbe974ecccc1cb07f9fa44140087198079b407
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
+Version: 0.2.2
+Priority: optional
+Maintainer: you
+Installed-Size: 18423
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, procps, curl, gnupg, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.2.2_amd64.deb
+Size: 6059828
+MD5sum: 22bfd6f777611a5faad4dd68a81cbf4a
+SHA1: 81bb43873f940d335a650ef1b098fc0b8519f721
+SHA256: bfc0d91a3b9eb532ca883905cf02f9e5a0ae43077ddcc92f04c52e15a3a7d9c7
+SHA512: 3764bcb27862a0083f0827e0667c94f4e393f47ba415a4e7b74086d6fc3d371763bf4781a42ff20a16335e95c63f534877a146481388ae0678bf9f30bb3b2302
+Description: A Tauri App
+ (none)
+
