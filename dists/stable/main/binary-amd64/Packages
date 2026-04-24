@@ -222,3 +222,19 @@ SHA512: 64f7465d22343fa6d874968ffdea961d7bc836c5f4e2ac0b74279b2f6d372be58cd53507
 Description: A Tauri App
  (none)
 
+Package: meister
+Architecture: amd64
+Version: 0.2.6
+Priority: optional
+Maintainer: you
+Installed-Size: 18424
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, procps, curl, gnupg, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.2.6_amd64.deb
+Size: 6061230
+MD5sum: 5c809e9338d982fa1ea3530f4d5383b1
+SHA1: 5ab84da05559845f8cd49122017574d898a04c18
+SHA256: 0fb60269dcd23644fd54a4ba92f098cc474e6c560e5c5823e284403445d6485a
+SHA512: fbe304118f4dd1040940239982d507db94c9d978e11a00438c0c8edb6d3acfdbd041a522f40b0ed7c62d54ecfd4a4eca549a5aa3577b61f3f08daf42636fedac
+Description: A Tauri App
+ (none)
+
