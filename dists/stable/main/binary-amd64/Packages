@@ -144,6 +144,22 @@ Description: A Tauri App
 
 Package: meister
 Architecture: amd64
+Version: 0.2.10
+Priority: optional
+Maintainer: you
+Installed-Size: 18441
+Depends: libgtk-3-0, libwebkit2gtk-4.1-0, procps, curl, gnupg, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Meister_0.2.10_amd64.deb
+Size: 6066408
+MD5sum: 380f0631ce8e112e1774a991e84c052f
+SHA1: 44105aec44cc8788b10aa973ed83bbc8cc5abf2c
+SHA256: 37cdf0d247034d391ee77e9ff95aa1e3dc7b2bd799e62b8c7eb4ec191c236cc0
+SHA512: a5551d420c339e15936aed4f7fb8a7f3e086cdcc00e57b55b2c09fb9d8ec0082c7f4529bc28f879027110c53c46e8f9ad79bc5d15ec9a14f12add301386ec4de
+Description: A Tauri App
+ (none)
+
+Package: meister
+Architecture: amd64
 Version: 0.2.1
 Priority: optional
 Maintainer: you
